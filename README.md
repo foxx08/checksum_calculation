@@ -1,4 +1,4 @@
-<h1>checksum calculation program for German ID card</h1>
+<h1>checksum calculation for German ID card number</h1>
 Assembly asm programm, whichs takes a German ID card number from the command line and outputs it togehter with the checksum.
 <br><br>
 
