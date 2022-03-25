@@ -8,4 +8,5 @@
 
 
 Assembly asm programm, whichs takes a German ID card number from the command line and outputs it togehter with the checksum.
-Note: The program functionality is based on 32-bits architecture and may not work on common architectures.
+<br>
+<b>Note: The program functionality is based on 32-bits architecture and may not work on common architectures.</b>
